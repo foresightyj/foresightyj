@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+https://github.com/foresightyj/FHT.Web/workflows/StyleLint/badge.svg
+
+
 <!--
 **foresightyj/foresightyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
