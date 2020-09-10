@@ -4,9 +4,20 @@
 
 ![https://github.com/foresightyj/FHT.Web/workflows/Eslint/badge.svg](https://github.com/foresightyj/FHT.Web/workflows/Eslint/badge.svg)
 
+# fht-web-vue
+
+![https://github.com/foresightyj/fht-web-vue/workflows/StyleLint/badge.svg](https://github.com/foresightyj/fht-web-vue/workflows/Stylelint/badge.svg)
+
+![https://github.com/foresightyj/fht-web-vue/workflows/Eslint/badge.svg](https://github.com/foresightyj/fht-web-vue/workflows/Eslint/badge.svg)
+
+![https://github.com/foresightyj/fht-web-vue/workflows/VueTypeCheck/badge.svg](https://github.com/foresightyj/fht-web-vue/workflows/VueTypeCheck/badge.svg)
+
 
 <!--
 **foresightyj/foresightyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+https://docs.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow
+
 
 Here are some ideas to get you started:
 
