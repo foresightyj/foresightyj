@@ -1,6 +1,7 @@
-### Hi there 👋
+# FHT.Web
 
 ![https://github.com/foresightyj/FHT.Web/workflows/StyleLint/badge.svg](https://github.com/foresightyj/FHT.Web/workflows/StyleLint/badge.svg)
+![https://github.com/foresightyj/FHT.Web/workflows/Eslint/badge.svg](https://github.com/foresightyj/FHT.Web/workflows/Eslint/badge.svg)
 
 
 <!--
