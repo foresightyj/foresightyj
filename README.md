@@ -6,7 +6,7 @@
 
 # fht-web-vue
 
-![https://github.com/foresightyj/fht-web-vue/workflows/StyleLint/badge.svg](https://github.com/foresightyj/fht-web-vue/workflows/StyleLint/badge.svg) [Go](https://github.com/foresightyj/fht-web-vue/actions?query=workflow%3AStyleLint)
+![https://github.com/foresightyj/fht-web-vue/workflows/Stylelint/badge.svg](https://github.com/foresightyj/fht-web-vue/workflows/Stylelint/badge.svg) [Go](https://github.com/foresightyj/fht-web-vue/actions?query=workflow%3AStylelint)
 
 ![https://github.com/foresightyj/fht-web-vue/workflows/Eslint/badge.svg](https://github.com/foresightyj/fht-web-vue/workflows/Eslint/badge.svg) [Go](https://github.com/foresightyj/fht-web-vue/actions?query=workflow%3AEslint)
 
